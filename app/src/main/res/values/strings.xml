@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookMaster</string>
+    <string name="about_app">O programie</string>
+    <string name="ok">OK!</string>
+    <string name="welcome_text_first">Czytaj książki będziesz wielki!</string>
+    <string name="welcome_text_second">Zaczynaj przygodę z książkami!</string>
+    <string name="welcome">Witaj</string>
+    <string name="input_name">Podaj imię</string>
+    <string name="logout">Wyloguj</string>
+</resources>
